@@ -55,11 +55,5 @@ iris-flower-prediction/
 * Target:
 
    * Setosa, Versicolor, Virginica
- 
-# 🙋‍♀️ Author
-Swalha Sakeer
-
-Passionate about Machine Learning & AI | Data Engineering Student
-
 
 
